@@ -2,7 +2,9 @@
 its my first trial with demo project3.0
 
 # co-leader
-anjali
+james
 
 # co-leader
-shalini
+william
+# cheif Executor
+Peter
